@@ -5,7 +5,7 @@ const hubtel = require('../lib')({
 
 let payload = {
   from: "Ronny",
-  to: '+233244151524',
+  to: '+233204151524',
   registeredDelivery: true,
   message: 'Yo, this should work.. hehe'
 }
