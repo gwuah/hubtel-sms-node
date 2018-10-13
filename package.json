@@ -1,0 +1,28 @@
+{
+  "name": "hubtel-sms-node",
+  "version": "1.0.0",
+  "description": "A node wrapper around the hubtel sms api.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubtel",
+    "sms",
+    "api",
+    "javascript"
+  ],
+  "author": "gwuah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "query-string": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwuah/hubtel-sms-node.git"
+  }
+}
