@@ -14,8 +14,8 @@ Making a payment request
 ```javascript
 
 const hubtel = require('hubtel-sms-node')({
-  key: 'your key here',
-  secret:  'your secret here'
+  ClientId: 'your key here',
+  ClientSecret:  'your secret here'
 });
 
 let payload = {
