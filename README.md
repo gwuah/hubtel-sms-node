@@ -9,8 +9,7 @@ yarn add hubtel-sms-node
 
 ### Usage
 
-Making a payment request
-
+Sending message using hubtel
 ```javascript
 
 const hubtel = require('hubtel-sms-node')({
